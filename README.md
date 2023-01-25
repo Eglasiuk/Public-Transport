@@ -14,8 +14,8 @@ Here are the global transport movements according to bus distance classification
 **2. Movement Table by Company**
 ![Dashboard_index](MovimientosporEmpresa.PNG)
 
-**3. Movement Table by Company**
-![Dashboard_index](Multibeneficios.PNG)
+**3. Beneficiaries**
+![Dashboard_index](Beneficiarios.PNG)
 
 **4. Multi-benefits Table**
 ![Dashboard_index](Multibeneficios.PNG)
