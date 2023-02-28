@@ -22,3 +22,5 @@ Here are the global transport movements according to bus distance classification
 
 **5. Usage Rate Table**
 ![Dashboard_index](TasadeUso.PNG)
+
+https://app.powerbi.com/reportEmbed?reportId=44280021-4dde-4b35-8476-7b0890bb55a3&autoAuth=true&ctid=f77e0d0a-5a06-46e7-88fd-6429c8029bac
